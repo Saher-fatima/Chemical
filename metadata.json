@@ -1,0 +1,6 @@
+{
+  "name": "Chemical Batch Quality Predictor",
+  "description": "AI-assisted chemical batch quality prediction and process monitoring system for quality engineers.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
